@@ -14,6 +14,8 @@
 
 ---
 
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ## `> whoami`
 
 ```python
@@ -22,54 +24,31 @@ ansh = {
     "location": "New Delhi, India 🇮🇳",
     "edu"     : "B.Tech ECE @ GGSIPU (2022–2026)",
     "roles"   : ["AI/ML Engineer", "Data Scientist", "GenAI Builder"],
-
-    "experience": [
-        "AI Agent Developer  @ Echoes           [Jun–Aug 2025]",
-        "Business Analyst    @ Razespace/Cirkle  [Apr–Jun 2024]",
-    ],
-
-    "currently_into" : ["Agentic AI", "RAG Systems", "LLM Fine-tuning", "AutoML"],
-    "certs"          : ["AWS Cloud Practitioner", "Power BI Associate", "GCP GenAI"],
-    "achievement"    : "🥈 2nd / 500+ participants @ ACM Hashtech 2023",
-    "community"      : "AI Club Lead @ USICT ACM — led 100+ members",
-    "status"         : "🟢 Open to Work",
+    "currently_into" : ["Agentic AI", "RAG Systems", "LLM Fine-tuning"],
+    "certs"   : ["AWS Cloud Practitioner ☁️",
+                 "Power BI Associate 📊",
+                 "GCP GenAI 🤖"],
+    "status"  : "🟢 Open to Work",
 }
 ```
 
-<br/>
+<br clear="right"/>
 
 ---
 
-## 💼 Experience
+## 🏅 GitHub Badges
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-**🤖 AI Agent Developer**
-`Echoes` · Remote · *Jun – Aug 2025*
+> *Earned through contributions, community & consistency*
 
-Built autonomous AI agents with memory, planning, and tool-use from scratch using LangChain.
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
 
-- ↑ **40%** task completion rate via targeted failure-pattern fixes
-- ↓ **25%** system latency through workflow optimization
-- Deployed monitoring pipelines across **15+ test scenarios**
-
-</td>
-<td width="50%" valign="top">
-
-**📊 Business Analyst Intern**
-`Razespace, Cirkle` · Remote · *Apr – Jun 2024*
-
-Analyzed multi-source behavioral data and built dashboards that drove real product decisions.
-
-- ↑ **30%** user engagement from data-driven UX insights
-- ↓ **20%** manual reporting time via Power BI dashboards
-- Improved cross-functional alignment with exec-ready data storytelling
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -86,7 +65,7 @@ Analyzed multi-source behavioral data and built dashboards that drove real produ
 
 Ingests mixed-format docs (PDFs, images, tables) and answers queries with citation-backed precision using FAISS vector retrieval + semantic search.
 
-**↑ 35% response relevance** via optimized embeddings & data augmentation. Deployed on Render + Streamlit with low-latency full pipeline.
+**↑ 35% response relevance** via optimized embeddings & data augmentation. Deployed on Render + Streamlit.
 
 `LangChain` `LlamaIndex` `FAISS` `Transformers` `Streamlit`
 
@@ -98,7 +77,7 @@ Ingests mixed-format docs (PDFs, images, tables) and answers queries with citati
 
 Automated ML pipeline: preprocessing → feature engineering → model selection → hyperparameter tuning → evaluation. All in one click.
 
-**↓ 60% manual effort.** Top-2 accuracy on **8+ benchmark datasets**. Model compression applied to minimize resource footprint.
+**↓ 60% manual effort.** Top-2 accuracy on **8+ benchmark datasets**.
 
 `PyTorch` `Scikit-learn` `Pandas` `Streamlit` `Render`
 
@@ -112,7 +91,7 @@ Automated ML pipeline: preprocessing → feature engineering → model selection
 
 Transcribes audio via OpenAI Whisper, extracts structured summaries, decisions, and action items using fine-tuned NLP models with NER + abstractive summarization.
 
-**↓ 70% documentation time.** Real-time audio upload + instant AI-generated reports in production.
+**↓ 70% documentation time.** Real-time audio upload + instant AI reports.
 
 `Whisper` `HuggingFace` `Flask` `Transformers` `Streamlit`
 
@@ -122,9 +101,9 @@ Transcribes audio via OpenAI Whisper, extracts structured summaries, decisions, 
 ### 📊 HR Analytics Dashboard
 > People analytics that prevent attrition
 
-EDA on **1,400+ employee records** identified salary, role & tenure as key attrition drivers responsible for **85%+ of turnover**.
+EDA on **1,400+ employee records** identified salary, role & tenure as key attrition drivers — responsible for **85%+ of turnover**.
 
-**↓ 60% manual reporting.** Interactive Power BI dashboard with DAX-driven KPIs and dynamic slicers for full self-service analytics.
+**↓ 60% manual reporting.** DAX-driven KPIs + dynamic slicers for self-service analytics.
 
 `Power BI` `DAX` `Excel` `EDA` `KPI Tracking`
 
@@ -136,9 +115,9 @@ EDA on **1,400+ employee records** identified salary, role & tenure as key attri
 ### 🎯 Customer Segmentation Engine
 > K-Means clustering at scale
 
-Clustered **500K+ transactions** into 5 actionable customer segments, enabling precision marketing campaigns.
+Clustered **500K+ transactions** into 5 actionable segments enabling precision marketing campaigns.
 
-**↑ 25% campaign ROI** vs prior approaches. Feature engineering pipeline improved silhouette score by **18%**.
+**↑ 25% campaign ROI** vs prior approaches. Silhouette score improved by **18%** via feature engineering.
 
 `Python` `K-Means` `Scikit-learn` `Pandas` `Streamlit`
 
@@ -148,9 +127,9 @@ Clustered **500K+ transactions** into 5 actionable customer segments, enabling p
 ### 🛒 RFM E-Commerce Analytics
 > Revenue intelligence on 200K+ orders
 
-RFM scoring revealed top 20% of customers drove **65% of revenue**. Re-engagement campaigns designed for lapsed segments.
+RFM scoring revealed top 20% of customers drove **65% of revenue**. Re-engagement campaigns for lapsed segments.
 
-**22% churned users recovered** in the first campaign cycle with segment-tracking dashboards.
+**22% churned users recovered** in the first campaign cycle.
 
 `Python` `RFM Analysis` `Pandas` `SQL` `Streamlit`
 
@@ -162,38 +141,41 @@ RFM scoring revealed top 20% of customers drove **65% of revenue**. Re-engagemen
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**AI · GenAI · LLMs**
+### 🤖 AI · GenAI · LLMs
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=6ee7f7)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=6ee7f7)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 
-**Data · Analytics · Visualization**
+### 📊 Data · Analytics · Visualization
 
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=6ee7f7)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=4DABCF)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=E97627)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Tools · Infra · Cloud**
+### ☁️ Tools · Infra · Cloud
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logo=meta&logoColor=0668E1)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
@@ -210,34 +192,6 @@ RFM scoring revealed top 20% of customers drove **65% of revenue**. Re-engagemen
 | ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | 2024 |
 | 📊 Power BI Data Analyst Associate | Microsoft | 2025 |
 | 🤖 Generative AI Fundamentals | Google Cloud Platform | 2024 |
-
-</div>
-
-<br/>
-
----
-
-## ⚡ Achievements & Leadership
-
-<div align="center">
-
-🥈 **2nd Place** out of **500+ participants** — ACM Hashtech 2023 Competitive Programming Contest, USICT
-
-🎓 **AI Club Lead** @ USICT ACM Student Chapter — organized AI/ML workshops, mentored junior students, led hands-on project sessions for **100+ members**
-
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ansh610&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6ee7f7&icon_color=6ee7f7&text_color=8892b0&count_private=true" />
-&nbsp;
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh610&theme=tokyonight&hide_border=true&background=0d1117&ring=6ee7f7&fire=6ee7f7&currStreakLabel=6ee7f7&sideLabels=8892b0&dates=555555&sideNums=ffffff" />
 
 </div>
 
